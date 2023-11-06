@@ -1,5 +1,5 @@
 # Podzadanie 1: konfiguracja oprogramowania
-## Podzadanie 1: Dlaczego zdecydowałam się
+## Podzadanie 1: Dlaczego zdecydowałam się wziąć udział w wyzwaniu Dare IT Challenge
 
 Zdecydowałam się na udział w wyzwaniu, gdyż chciałam zrozumieć na czym polega testowanie automatyczne, dostać przedsmak jak realnie wygląda ta praca i przekonać się robiąc praktyczne zadania, czy to jest ścieżka dla mnie. Aktualnie pracuję w firmie BI w suporcie technicznym i na co dzień też czasem muszę testować nasz produkt, jeśli zgłaszane są przez klientów jakieś problemy. 
 
