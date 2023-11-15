@@ -1,5 +1,7 @@
+
 # Zadanie 1: konfiguracja oprogramowania
 ## Podzadanie 1: Dlaczego zdecydowałam się
+
 
 Zdecydowałam się na udział w wyzwaniu, gdyż chciałam zrozumieć na czym polega testowanie automatyczne, dostać przedsmak jak realnie wygląda ta praca i przekonać się robiąc praktyczne zadania, czy to jest ścieżka dla mnie. Aktualnie pracuję w firmie BI w suporcie technicznym i na co dzień też czasem muszę testować nasz produkt, jeśli zgłaszane są przez klientów jakieś problemy. 
 
@@ -44,3 +46,4 @@ Od stycznia robię kurs CS50x i odkryłam w sobie zamiłowanie do rozwiązywania
 //* [@id="__next"]/form/div/div[2]/div/input\
 //input[contains(@class, "nativeInput")]\
 //form/div/div[2]//input 
+
