@@ -21,11 +21,20 @@ class Dashboard(BasePage):
     #pass
 
     def title_of_page(self):
-        time.sleep(4)
+        self.wait_for_element_to_be_clickable(self.panel_xpath)
         assert self.get_page_title(self.dashboard_url) == self.expected_title
 
     def panel_check(self):
-        time.sleep(4)
+        #time.sleep(4)
         self.assert_element_text(self.driver, self.panel_xpath, self.expected_panel_element_text)
+
+    def click_sign_out(self):
+        self.click_on_the_element(self.sign_out_menu_xpath)
+
+    def change_language(self):
+        self.click_on_the_element(self.language_menu_xpath)
+
+    def players_click(self):
+        self.click_on_the_element(self.players_menu_xpath)
 
 
